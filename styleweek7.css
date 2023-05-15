@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: blueviolet;
+  font-size: large;
+  font-weight: 600;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 400;
+  font-size: medium;
+}
